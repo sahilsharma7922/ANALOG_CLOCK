@@ -1,3 +1,10 @@
+/*This project is made up by Sahil Sharma.
+    It is all about an analog and digital clock display.
+    It is made using C++ Graphics.
+    
+*/
+
+
 #include<graphics.h>
 #include<time.h>
 #include<stdio.h>
